@@ -16,7 +16,7 @@ Exploring and interested in building something cool!
 
 ### More Information
 
-I am a Graduate from Dalhousie University! Spent awesome 1.5 years learning very cool concepts like design patterns and cloud architecting!
+I am a Computer Sceince graduate from Dalhousie University! Spent awesome 1.5 years learning very cool concepts like design patterns and cloud architecting!
 - I built my own app!
   
 
