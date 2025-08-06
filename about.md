@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there! I’m Srishti - a Cloud & Data Engineer who loves building things that just work (and secretly enjoys breaking them first to figure out how).
+I’m Srishti - a Cloud & Data Engineer who loves building things that just work (and secretly enjoys breaking them first to figure out how).
 
 I currently work at CGI, where I wrangle AWS services like Lambda, S3, DynamoDB, and Kafka to build serverless, event-driven systems.
 
