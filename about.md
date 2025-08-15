@@ -15,6 +15,6 @@ I am a Computer Science graduate from Dalhousie University! Spent awesome 1.5 ye
   
 When I’m not engineering solutions, I’m usually painting, travelling or hitting the gym!
 
-### Contact me
+<!-- ### Contact me
 
-[Email](mailto:srshtjn@gmail.com)
+[Email](mailto:srshtjn@gmail.com) -->
