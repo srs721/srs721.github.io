@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech Talk Recap - COBOL to Copilot, 0"We Won’t Need Programmers Anymore..?" with Andrew Burke
+title: Tech Talk Recap - COBOL to Copilot, "We Won’t Need Programmers Anymore..?" with Andrew Burke
 ---
 
 I recently attended an insightful tech talk by Andrew Burke (Co-Founder & Developer at BeanCounter Technologies) that explored the evolving role of programmers amidst decades of technological change, automation, and AI advancements.
