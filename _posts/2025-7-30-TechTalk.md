@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech Talk Recap - COBOL to Copilot, "We Won’t Need Programmers Anymore..?" with Andrew Burke
+title: We Won’t Need Programmers Anymore..?
 categories: tech
 ---
 
